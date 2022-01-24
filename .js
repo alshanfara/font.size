@@ -1,2 +1,2 @@
 
-<script>alert(" The site has been hacked due to theft, thank you (AL,sHaFaRa")</script>=word
+<script>alert(" The site has been hacked due to theft, thank you (AL,sHaFaRa")</script>
